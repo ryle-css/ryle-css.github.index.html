@@ -1,0 +1,10 @@
+
+{
+  "name": "Ryle L. De Hitta | Portfolio",
+  "short_name": "RylePortfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#05070c",
+  "theme_color": "#0b0f19",
+  "icons": []
+}
